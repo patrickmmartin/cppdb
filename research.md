@@ -1,8 +1,14 @@
 Initial Research on current state of the art
 ---
 
+Listing
+===
 
-from http://en.cppreference.com/w/cpp/links/libs
+# History:
+* Borland Database Engine
+* ODBC
+
+# List from http://en.cppreference.com/w/cpp/links/libs
 
 * DTL
 * libpqxx
@@ -15,7 +21,7 @@ from http://en.cppreference.com/w/cpp/links/libs
 * SOCI
 * sqlpp11
 
-
+# Comparisons table
 
 | lib | Notes | ODBC | postgres | mysql| db2 | oracle | SQL Server | 
 | --- | ----- | --- | --------- | ---- | --- | ------ | ---------- | 
