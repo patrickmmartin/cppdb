@@ -7,6 +7,14 @@ Usage
 * Simple, unambiguous style for  client code
 * We don't really care too much about the back end code (no really - who ever looks)
 
+OS Support
+===
+
+* POSIX? C++03? C++1\??
+* OSX
+* Windows
+* Bonus points for Solaris / AIX
+
 
 HAVE I MENTIONED IT MUST BE QUICK TO BUILD YET!
 ===
