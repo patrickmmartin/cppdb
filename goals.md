@@ -8,6 +8,11 @@ Usage
 * We don't really care too much about the back end code (no really - who ever looks)
 
 
+HAVE I MENTIONED IT MUST BE QUICK TO BUILD YET!
+===
+
+OK GOT IT
+
 Dynamic query support
 ===
 
